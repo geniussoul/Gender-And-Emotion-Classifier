@@ -43,7 +43,7 @@ Emotion Detection| ResNet50    | .onnx                     | ONNX
 📦 Installation
 --------------------------
 1️⃣ Clone the Repository:
-    git clone https://github.com/your-username/GenderAgeEmotionClassifier.git
+    git clone https://github.com/geniussoul/GenderAgeEmotionClassifier.git
     cd GenderAgeEmotionClassifier
 
 2️⃣ Install Required Libraries:
@@ -104,7 +104,7 @@ This project is licensed under the MIT License — free to use, modify, and dist
 📬 Contact
 --------------------------
 📧 martandmishra473@gmail.com  
-🌐 LinkedIn: https://linkedin.com/in/your-link
+🌐 LinkedIn: https://linkedin.com/in/martand-mishra-geniusscholar
 
 --------------------------
 ✨ Quote
